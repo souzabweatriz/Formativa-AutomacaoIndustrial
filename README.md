@@ -1,4 +1,4 @@
-# Supervisório de Automação Industrial
+# Formativa de Automação Industrial
 
 Aplicação web para acompanhar contadores de produção de um CLP Siemens S7-1500. O backend em Node.js lê as variáveis do servidor OPC UA do CLP e envia atualizações ao painel Vue por Socket.IO.
 
